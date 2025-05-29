@@ -34,7 +34,7 @@
 
 1. Clone the repository.
 2. Navigate to the project directory:
-   `cd projects/introduction-to-mcp-with-sql-agent`
+   `cd mcp-sql-server`
 3. Install dependencies using uv: `uv sync`
 4. Create a `.env` file with your Anthropic API key:
 
