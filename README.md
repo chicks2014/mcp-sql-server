@@ -52,7 +52,7 @@ Note that you don't need to explicitly run the server, as the client automatical
 ## Project Structure
 
 ```
-introduction-to-mcp-with-sql-agent/
+mcp-sql-server/
 ├── README.md         # Project documentation
 ├── mcp_client.py     # MCP client script
 ├── mcp_server.py     # MCP server script
@@ -72,7 +72,7 @@ introduction-to-mcp-with-sql-agent/
   execute SQL queries.
 - The `mcp_client.py` file uses the Anthropic Claude 3 Sonnet model to generate
   SQL queries from natural language input.
-- The `database.db` file is a SQLite database used for the demo.
+- The `chinook.db` file is a SQLite database used for the demo.
 - Zellij layouts are provided for development and demo purposes.
 
 ## Contributing
